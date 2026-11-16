@@ -2,7 +2,7 @@
 
 End-to-end machine learning project that predicts which telecom customers are likely to leave, explains why, and helps decide who to contact with a retention offer. Includes a Streamlit dashboard and single-customer predictor.
 
-**Live demo:** \[ Streamlit link]
+**Live demo:** https://telco-churn-prediction-dashboard.streamlit.app/
 
 ## Problem
 
